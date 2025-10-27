@@ -12,4 +12,4 @@ Driven software developer with 4 years of experience building scalable solutions
 Java | React | Python | Machine Learning | NLP | Data Structures | REST APIs | GitHub
 
 ### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/venkateshgl) | [Portfolio](https://venkateshgl.github.io)
+[LinkedIn](https://www.linkedin.com/in/venkateshgoulikar/) | [Portfolio](https://venkateshgl.github.io)
